@@ -1,2 +1,2 @@
 # develop
-Develop file
+This repository is for the developers of huh.
